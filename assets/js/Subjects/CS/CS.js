@@ -1,5 +1,5 @@
 function CS() {
-  window.open("/components/pages/CS/CSsub.html");
+  window.open("CSsub.html");
 }
 
 function videosIC(){
